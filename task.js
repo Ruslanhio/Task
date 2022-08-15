@@ -9,7 +9,7 @@ console.log(arr3);
 const HIGH_TEMPERATURE = {
     yesterday: 75,
     today: 74,
-    tomorrow: 80
+    tomorrow: 70
   };
   
   // Only change code below this line
