@@ -1,6 +1,6 @@
-const arr1 = ['JAN', 'FEB', 'MAR', 'APR', 'MAY'];
-let arr2;
+const arr2 = ['JAN', 'FEB', 'MAR', 'APR', 'MAY'];
+let arr3;
 
-arr2 = [...arr1];  // Change this line
+arr3 = [...arr2];  // Change this line
 
 console.log(arr2);
