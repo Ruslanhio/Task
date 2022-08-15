@@ -42,8 +42,8 @@ const HIGH_TEMPERATURE = {
   // Only change code above this line
 
 
-  function testEqual(val) {
-    if (val == 12) { // Change this line
+  function testEqual(myVal) {
+    if (myVal == 12) { // Change this line
       return "Equal";
     }
     return "Not Equal";
