@@ -40,3 +40,13 @@ const HIGH_TEMPERATURE = {
     
   const {today: {low: lowsToday, high: highsToday }} = LOCAL_FORECAST;
   // Only change code above this line
+
+
+  function testEqual(val) {
+    if (val == 12) { // Change this line
+      return "Equal";
+    }
+    return "Not Equal";
+  }
+  
+  testEqual(10);
