@@ -20,7 +20,7 @@ const HIGH_TEMPERATURE = {
   const HIGH_TEMPERATURES = {
     yesterday: 75,
     today: 77,
-    tomorrow: 80
+    tomorrow: 79
   };
   
   // Only change code below this line
