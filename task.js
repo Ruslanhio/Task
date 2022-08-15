@@ -6,13 +6,13 @@ arr3 = [...arr2];  // Change this line
 console.log(arr3);
 
 
-const HIGH_TEMPERATURES = {
+const HIGH_TEMPERATURE = {
     yesterday: 75,
-    today: 77,
+    today: 74,
     tomorrow: 80
   };
   
   // Only change code below this line
   
-  const {today} = HIGH_TEMPERATURES ;
-  const {tomorrow} = HIGH_TEMPERATURES;
+  const {today} = HIGH_TEMPERATURE ;
+  const {tomorrow} = HIGH_TEMPERATURE;
